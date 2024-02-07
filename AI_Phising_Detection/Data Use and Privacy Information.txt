@@ -1,0 +1,11 @@
+Dear User,
+
+We are committed to maintaining the trust and confidence of our users. In compliance with data protection laws, we wish to inform you about the data we collect and how it is used and secured.
+
+The emails sent to us may have their subject lines and body text used for the purpose of training and continually improving our machine learning model for detecting phishing attempts. The sender's information will only be used to honor requests for deletion of their data. The date of the emails will be recorded for internal management purposes but will not be utilized in any data processing activities.
+
+Be assured that no data collected will be shared with any third party, company, or organization.
+
+Should you wish to have your data deleted, please send a request to eduardoproject.ia@gmail.com including the email address in question and the reason for deletion.
+
+We take your privacy seriously and are committed to protecting your personal information.
